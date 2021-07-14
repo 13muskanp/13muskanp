@@ -22,4 +22,4 @@ C++, Python, SQL
 ![Profile views](https://gpvc.arturio.dev/13muskanp)  
 
 ## Available for hire
-Feel free to contact me if you are hiring. [Here](https://github.com/13muskanp/) is my resume.
+Have a look at my [Resume](https://github.com/13muskanp/13muskanp/raw/main/docs/Muskan%20Pandey-%20July2021.pdf).
