@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋, my name is Muskan Pandey
+I'm a Software Engineer at Avaya India.
 
-<!--
-**13muskanp/13muskanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+C++, Python, SQL
 
-Here are some ideas to get you started:
+## About Me
+- 🏫 Graduated from MIT Academy of Engineering, Pune  
+- 🌱 I’m currently learning Flask, ReactJS 
+- 👯 I’m looking to collaborate on projects based on Python & ReactJS 
+- 💬 Reach out to me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/13muskanp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muskan-pandey)
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13muskanp)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=13muskanp&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=13muskanp)  
+
+![Profile views](https://gpvc.arturio.dev/13muskanp)  
+
+## Available for hire
+Feel free to contact me if you are hiring. [Here](https://github.com/13muskanp/) is my resume.
