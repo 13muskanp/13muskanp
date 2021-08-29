@@ -10,7 +10,7 @@ C++, Python, SQL
 - 👯 I’m looking to collaborate on projects based on Python & ReactJS 
 - 💬 Reach out to me on:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muskan-pandey)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muskan-pandey)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13muskanp)](https://github.com/anuraghazra/github-readme-stats)
