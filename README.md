@@ -23,4 +23,4 @@ C++, Python, SQL, Java
 ![Profile views](https://gpvc.arturio.dev/13muskanp)  
 
 ## Available for hire
-Have a look at my [Resume](https://github.com/13muskanp/13muskanp/raw/main/docs/Muskan%20Pandey-%20July2021.pdf).
+Have a look at my [Resume](https://drive.google.com/file/d/1LZdyslWL4YeZHhI8fuVl5cfCfXI-UqxN/view?usp=share_link).
