@@ -1,13 +1,14 @@
 # Hi there 👋, my name is Muskan Pandey
-I'm a Software Engineer at Avaya India.
+I'm a graduate student at the University of Southern California.
 
 ## Skills
 C++, Python, SQL, Java
 
 ## About Me
+- 🏢 Worked as a Software Developer @ Avaya India
 - 🏫 Graduated from MIT Academy of Engineering, Pune  
-- 🌱 I’m currently learning SpringBoot, Kafka 
-- 👯 I’m looking to collaborate on projects based on SpringBoot
+- 🌱 I’m currently learning advanced algorithms and their implementations 
+- 👯 I’m looking to collaborate on projects based on SpringBoot, Deep Learning (Computer Vision)
 - 💬 Reach out to me on:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muskan-pandey)
