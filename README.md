@@ -2,7 +2,7 @@
 I'm a graduate student at the University of Southern California.
 
 ## Skills
-C++, Python, Scala, SQL, Java, Goland
+C++, Python, Scala, SQL, Java, Golang
 
 ## About Me
 - 🏢 Worked as a SWE Intern @ Rubrik, CA & SDE @ Avaya, India
