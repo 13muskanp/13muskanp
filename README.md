@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Muskan Pandey
-I'm a graduate student at the University of Southern California. I absolutely love C++.
+I am a SWE at Bloomberg. I graduated from University of Southern California with Masters degree in Computer Science. I absolutely love C++.
 
 ## Skills
 C++, Python, Scala, SQL, Java, Golang
